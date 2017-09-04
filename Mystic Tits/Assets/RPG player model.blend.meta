@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1370b6e62d81721418e7adc269f37609
+guid: d7611051cbe9d7848962458e637da6e4
 timeCreated: 1503458092
 licenseType: Free
 ModelImporter:
@@ -22,7 +22,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
